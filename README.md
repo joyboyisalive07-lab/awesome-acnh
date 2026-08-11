@@ -89,6 +89,7 @@
 * [**Stalks.io**](https://stalks.io): Beautiful Stalk Market predictor to track your profits and price history.
 * [**r/ACTurnips**](https://www.reddit.com/r/ACTurnips): Tightly-moderated community facilitation of turnip sales.
 * [**Turnip Exchange**](https://turnip.exchange/): Queuing web app to host visitors for turnip sales and any other tour.
+* [**kabucast**](https://joyboyisalive07-lab.github.io/kabucast/): Stalk Market predictor that reports exact posterior probabilities, says when a price sequence is impossible instead of guessing, and tells you when to sell. Open source, works offline.
 
 ### Layout
 * [**Happy Island designer**](https://eugeneration.github.io/HappyIslandDesigner/): Plot out your island layout via mini-map in the browser.
